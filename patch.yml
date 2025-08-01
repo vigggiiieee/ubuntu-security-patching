@@ -33,6 +33,3 @@ services:
 volumes:
   semaphore-mysql:
   mysql_data:/home/administrator/ansible_projects/project:
-
-volumes:
-  semaphore-mysql:
